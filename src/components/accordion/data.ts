@@ -1,7 +1,7 @@
 const data = [
   {
     id: 1,
-    description: 'This is a longer description for item 1. It provides more details about the item and its features.',
+    description: '첫번째 아이템 설명 김치찌개는 맛있습니다. 김치찌개 만드는 방법은 간단합니다.',
     title: 'Title 1',
   },
   {
@@ -12,7 +12,7 @@ const data = [
   },
   {
     id: 3,
-    description: 'This is a longer description for item 3. It includes specific examples and use cases for the item.',
+    description: '두번째 아이템 설명 여기에는 뭐를 쓰지? 두번째 아이템 설명은 뭐가 좋을까요?',
     title: 'Title 3',
   },
 ];
